@@ -113,7 +113,7 @@ Teniendo claro con que datos se trabajará, se procede a ralizar la limpeza y co
 <p align=center>
 <img src = 'Imagenes\Captura.PNG' height=300><p>
 
-Para crear las visualizaciones se utlizó la herramienta Power BI, en la cual se crearon las relaciones de cardinalidad entre las diferentes tablas, buscando crear interacciones entre las mismas y crear un Dashboard interactivo como sepude observar en el siguiente [archivo](), como tambien se relizó un informe donde se analiza el [tablero_de_control]().
+Para crear las visualizaciones se utlizó la herramienta Power BI, en la cual se crearon las relaciones de cardinalidad entre las diferentes tablas, buscando crear interacciones entre las mismas y crear un Dashboard interactivo como sepude observar en el siguiente [archivo](https://github.com/Alvaro9721/PI_3-Data-analysis/blob/main/PI_03.pbix), como tambien se relizó un informe donde se analiza el [tablero_de_control](https://github.com/Alvaro9721/PI_3-Data-analysis/blob/main/Informe_Conectividad.pdf).
 
 
 
